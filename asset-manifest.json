@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SD-fashions-react-app/static/css/main.83c09ef5.css",
+    "main.js": "/SD-fashions-react-app/static/js/main.4b599e8a.js",
+    "static/media/carousel2.jpg": "/SD-fashions-react-app/static/media/carousel2.8367fe08515654e9a3ac.jpg",
+    "static/media/carousel4.jpg": "/SD-fashions-react-app/static/media/carousel4.3a2421f1106a00637e08.jpg",
+    "static/media/carousel5.jpg": "/SD-fashions-react-app/static/media/carousel5.bd7974977735c5bbc558.jpg",
+    "static/media/carousel3.jpg": "/SD-fashions-react-app/static/media/carousel3.9b68decbd9fd57dbc9bb.jpg",
+    "static/media/bg-image.jpg": "/SD-fashions-react-app/static/media/bg-image.7bdfcb42c6f5dbddee29.jpg",
+    "static/media/carousel1.jpg": "/SD-fashions-react-app/static/media/carousel1.4e169b622a908cc3ebc8.jpg",
+    "index.html": "/SD-fashions-react-app/index.html",
+    "main.83c09ef5.css.map": "/SD-fashions-react-app/static/css/main.83c09ef5.css.map",
+    "main.4b599e8a.js.map": "/SD-fashions-react-app/static/js/main.4b599e8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83c09ef5.css",
+    "static/js/main.4b599e8a.js"
+  ]
+}
