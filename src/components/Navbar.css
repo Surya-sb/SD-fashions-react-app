@@ -1,0 +1,28 @@
+/* src/components/Navbar.css */
+.sd-navbar{
+  background-color: rgba(245, 245, 245, 0.493);
+  border-radius: 10px;
+}
+.sd-navbar .nav-link {
+    color: #f786b1;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    transition: color 0.3s;
+  }
+  
+  .sd-navbar .nav-link:hover {
+    color: #ffffff;
+    text-decoration-skip-ink: auto ;
+  }
+  
+  .sd-logo {
+    font-size: 40px;
+    color: white;
+    background-color: #000000;
+    letter-spacing: 7px;
+    padding: 8px;
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-right: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }  

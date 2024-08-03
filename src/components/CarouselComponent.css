@@ -1,0 +1,23 @@
+/* src/components/CarouselComponent.css */
+.carousel-container {
+    width: 50%;
+    float: left;
+    margin: 40px;
+    border: 20px solid rgba(0, 0, 0, 0.199);
+    border-radius: 20px;
+  }
+  
+  .carousel-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .home-background {
+    background-image: url('../assets/images/bg-image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position:center;
+  }
+  
